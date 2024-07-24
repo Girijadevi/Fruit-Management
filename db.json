@@ -1,0 +1,92 @@
+{
+  "fruits": [
+    {
+      "id": "80aa",
+      "name": "Apple",
+      "quantity": 12,
+      "price": 200
+    },
+    {
+      "id": "a61f",
+      "name": "Mango",
+      "quantity": 13,
+      "price": 600
+    },
+    {
+      "id": "c864",
+      "name": "Banana",
+      "quantity": 12,
+      "price": 150
+    },
+    {
+      "id": "e488",
+      "name": "Pine Apple",
+      "quantity": 1,
+      "price": 220
+    },
+    {
+      "id": "1e74",
+      "name": "Dragon Fruit",
+      "quantity": 2,
+      "price": 105,
+      "isEditing": false
+    },
+    {
+      "id": "8639",
+      "name": "Litchi",
+      "quantity": 100,
+      "price": 500
+    },
+    {
+      "id": "3c28",
+      "name": "Orange",
+      "quantity": 14,
+      "price": 320
+    },
+    {
+      "id": "de1a",
+      "name": "Avocado",
+      "quantity": 2,
+      "price": 440,
+      "isEditing": false
+    },
+    {
+      "id": "7bf6",
+      "name": "Cherry ",
+      "quantity": 25,
+      "price": 250,
+      "isEditing": false
+    },
+    {
+      "id": "29a8",
+      "name": "Strawberry",
+      "quantity": 20,
+      "price": 120
+    },
+    {
+      "id": "3868",
+      "name": "Chiku",
+      "quantity": 15,
+      "price": 235
+    },
+    {
+      "id": "adef",
+      "name": "Guava",
+      "quantity": 6,
+      "price": 125,
+      "isEditing": false
+    },
+    {
+      "id": "cd50",
+      "name": "Watermelon",
+      "quantity": 1,
+      "price": 170
+    },
+    {
+      "id": "db62",
+      "name": "Kiwi",
+      "quantity": 5,
+      "price": 100
+    }
+  ]
+}

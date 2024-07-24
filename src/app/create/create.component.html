@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html><br>
+<form class="form-group" [formGroup]="form" (ngSubmit)="onSubmit()">
+  <div class="header" style="font-size: xx-large; text-align: center;"><b>ADD Fruits</b></div><br>
+  <div  style="margin-left: 465px; margin-top: 10px;"> 
+        <div class="form-group" style="width: 50%; margin-top: 10px;">
+            <label for="name"><b>NAME</b></label>
+            <input type="text" class="form-control" id="name" placeholder="Enter Name" formControlName="name" [(ngModel)]="name">
+          </div>
+
+          <div class="form-group" style="width: 50%; margin-top: 10px;">
+            <label for="quantity"><b>QUANTITY</b></label>
+            <input type="number" class="form-control" id="quantity" placeholder="Enter quantity" formControlName="quantity" [(ngModel)]="quantity">
+          </div>
+    
+          <div class="form-group" style="width: 50%; margin-top: 10px;">
+            <label for="price"><b>PRICE</b></label>
+            <input type="number" class="form-control" id="price" placeholder="Enter price" formControlName="price" [(ngModel)]="price">
+          </div>
+          <button type="submit" class="btn btn-primary" style= "margin-top: 10px;" >Create</button>
+          </div>
+</form>
+</html>

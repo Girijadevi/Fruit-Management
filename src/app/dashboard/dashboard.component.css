@@ -1,0 +1,32 @@
+.header {
+    padding: 25px;
+    background: #FFBF00;
+  }
+.fa-pencil-square-o{
+  color: #0747a6;
+  font-size: 20px;
+}
+.fa-trash-o{
+  color: red;
+  font-size: 20px;
+}
+.fa-cloud{
+  color: #0747a6;
+  font-size: 20px;
+}
+.fa-times-circle{
+  color: red;
+  font-size: 20px;
+}
+.fa-sort-desc{
+  position: absolute;
+  margin-left: 5px;
+}
+.fa-sort-asc{
+  position: absolute;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+.searchTerm {
+  border: 3px solid #00B4CC;
+}
